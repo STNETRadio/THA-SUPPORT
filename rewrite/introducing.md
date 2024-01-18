@@ -8,7 +8,7 @@
 
 ## บริการสมัครสมาชิก
 
-**สมัครสมาชิกรายเดือนและรายปี:** RE:WRITE มีบริการสมัครสมาชิกที่สามารถใช้งานได้ผ่าน [STNET Radio Plus](https://plus.stnetradio.co) เพื่อความสะดวกและรวดเร็ว ใช้งานได้โดยใช้ STNET Radio Account และสามารถร่วมกับแพ็คเกจต่าง ๆ ที่รวมถึง STNET Radio Plus: Silver และ RE:WRITE Plus Member
+**สมัครสมาชิกรายเดือนและรายปี:** RE:WRITE มีบริการสมัครสมาชิกที่สามารถใช้งานได้ผ่าน [STNET Radio Plus](https://stnetradio.co/plus) เพื่อความสะดวกและรวดเร็ว ใช้งานได้โดยใช้ STNET Radio Account และสามารถร่วมกับแพ็คเกจต่าง ๆ ที่รวมถึง STNET Radio Plus: Silver และ RE:WRITE Plus Member
 
 **เริ่มให้บริการพร้อมกับ Plus ในปี 2025:** บริการ RE:WRITE จะพร้อมให้บริการพร้อมกับแพ็คเกจ Plus ในปี 2025 ในบางประเทศ
 
