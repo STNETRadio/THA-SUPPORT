@@ -12,9 +12,14 @@
 * [🖐 วิธียกเลิกสมาชิก Plus+](plus/unsubscribe.md)
 * [✨ การคืนเงินบริการ STNET Radio Plus+ ในประเทศไทย](plus/refund.md)
 
+## RE:WRITE <a href="#rewrite" id="rewrite">
+
+* [ข้อมูลบริการ RE:WRITE](/rewrite/introducing.md)
+* [แนวทางการขอคืนเงินของ RE:WRITE](/rewrite/refund.md)
+
 ## พื้นที่การให้บริการ STNET Radio Plus+ <a href="#available-list" id="available-list"></a>
 
-* [✔️ พื้นที่เปิดให้บริการ](https://support.stnetradio.co/available-list/main)
+* [✔️ พื้นที่เปิดให้บริการ](/available-list/main.md)
 
 ## การจัดเก็บบัญชี <a href="#archive" id="archive"></a>
 
