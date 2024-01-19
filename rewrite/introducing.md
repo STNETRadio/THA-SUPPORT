@@ -1,6 +1,6 @@
 ---
 description: พวกเราขอแนะนำ RE:WRITE
-cover: .gitbook/assets/REWRITE-banner.png
+cover: ../.gitbook/assets/REWRITE-banner.PNG
 coverY: 0
 layout:
   cover:
