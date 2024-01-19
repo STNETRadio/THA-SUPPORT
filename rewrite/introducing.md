@@ -1,3 +1,23 @@
+---
+description: พวกเราขอแนะนำ RE:WRITE
+cover: .gitbook/assets/REWRITE-banner.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # ข้อมูลบริการ RE:WRITE
 
 เราขอนำเสนอบริการใหม่ที่น่าสนใจจาก STNET Radio - **RE:WRITE**
