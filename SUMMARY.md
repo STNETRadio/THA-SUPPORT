@@ -1,6 +1,7 @@
 # Table of contents
 
 * [❓ คุณต้องการความช่วยเหลือไหม](README.md)
+* [ประกาศครั้งสำคัญของรายการ  "เล่าเรื่องเก่ง"](https://x.com/STNETRadioTH/status/1762794843007529337)
 
 ## การรับฟัง STNET Radio Podcasts <a href="#podcast" id="podcast"></a>
 
