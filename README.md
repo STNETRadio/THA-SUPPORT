@@ -1,5 +1,5 @@
 ---
-description: Hello! This is Team STNET Radio.
+description: สวัสดี นี่คือทีม STNET Radio!
 cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
