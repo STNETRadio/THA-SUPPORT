@@ -1,7 +1,6 @@
 # Table of contents
 
 * [❓ คุณต้องการความช่วยเหลือไหม](README.md)
-* [‼️ ประกาศ: การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio](https://th.stnetradio.co/announce/Jul1524)
 
 ## การรับฟัง STNET Radio Podcasts <a href="#podcast" id="podcast"></a>
 
