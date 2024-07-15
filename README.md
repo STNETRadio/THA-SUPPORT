@@ -22,13 +22,13 @@ layout:
 
 ***
 
-> [!IMPORTANT]
-> การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio มีผลตั้งแต่วันที่ 15 กรกฏาคม 2567 เป็นต้นไป อ่านเพิ่มเติม[ที่นี่](announce/July1524.md)
+{% hint style="danger" %}
+การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio มีผลตั้งแต่วันที่ 15 กรกฏาคม 2567 เป็นต้นไป อ่านเพิ่มเติม[ที่นี่](announce/July1524.md)
+{% endhint %}
 
 ## ศูนย์ช่วยเหลือของ STNET Radio
 
-ยินดีต้อนรับสู่ศูนย์ช่วยเหลือของ STNET Radio! เราให้การช่วยเหลือในการตอบคำถามและให้ความช่วยเหลืออย่างเต็มที่
-หากคุณไม่พบข้อมูลที่คุณต้องการ กรุณาติดต่อทีมสนับสนุนของเราที่ [support@stnetradio.co](mailto:support@stnetradio.co) หรือติดต่อ [ทีม STNET Radio ทาง Twitter](https://twitter.com/teamstnetradio)!
+ยินดีต้อนรับสู่ศูนย์ช่วยเหลือของ STNET Radio! เราให้การช่วยเหลือในการตอบคำถามและให้ความช่วยเหลืออย่างเต็มที่ หากคุณไม่พบข้อมูลที่คุณต้องการ กรุณาติดต่อทีมสนับสนุนของเราที่ [support@stnetradio.co](mailto:support@stnetradio.co) หรือติดต่อ [ทีม STNET Radio ทาง Twitter](https://twitter.com/teamstnetradio)!
 
 ***
 
