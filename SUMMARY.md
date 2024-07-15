@@ -1,7 +1,7 @@
 # Table of contents
 
 * [❓ คุณต้องการความช่วยเหลือไหม](README.md)
-* [‼️ ประกาศ: การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio](/announce/Jul1524.md)
+* [‼️ ประกาศ: การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio](/announce/Jul1524-1.md)
 
 ## การรับฟัง STNET Radio Podcasts <a href="#podcast" id="podcast"></a>
 
@@ -29,4 +29,4 @@
 
 ## ประวัติการประกาศ <a href="#announce" id="announce"></a>
 
-* [การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio](announce/Jul1524.md)
+* [การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio](announce/Jul1524-2.md)
