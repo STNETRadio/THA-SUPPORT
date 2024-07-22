@@ -36,7 +36,7 @@ layout:
 ## คำถามที่พบบ่อย (FAQ)
 
 - [แผนการสมัครสมาชิก Plus+](plus/available-list.md)
-- [ปัญหาทางเทคนิค](https://docs.stnetradio.co)
+- [ปัญหาทางเทคนิค](https://docs.stnetradio.co/v/th)
 - [ปัญหาการคืนเงินของ RE:WRITE](rewrite/refund.md)
 
 ## ติดต่อเรา
