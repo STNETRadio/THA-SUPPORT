@@ -1,5 +1,5 @@
 ---
-description: สวัสดี นี่คือทีม STNET Radio!
+description: สวัสดี! นี่คือทีม STNET Radio
 cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
@@ -18,30 +18,32 @@ layout:
     visible: false
 ---
 
-# ❓ คุณต้องการความช่วยเหลือไหม
-
-***
+# ❓ ศูนย์ช่วยเหลือ STNET Radio
 
 {% hint style="danger" %}
-การเปลี่ยนแปลงโดเมนเว็บไซต์และอีเมลของ STNET Radio มีผลตั้งแต่วันที่ 15 กรกฏาคม 2567 เป็นต้นไป อ่านเพิ่มเติม[ที่นี่](announce/Jul1524.md)
+การเปลี่ยนแปลงเว็บไซต์และโดเมนอีเมลของ STNET Radio มีผลตั้งแต่วันที่ 15 กรกฎาคม 2024 อ่านรายละเอียดเพิ่มเติม [ที่นี่](announce/Jul1524.md).
 {% endhint %}
 
-## ศูนย์ช่วยเหลือของ STNET Radio
+ยินดีต้อนรับสู่ศูนย์ช่วยเหลือ STNET Radio! เราพร้อมที่จะช่วยคุณในทุกคำถามหรือปัญหาที่คุณอาจมี
 
-ยินดีต้อนรับสู่ศูนย์ช่วยเหลือของ STNET Radio! เราให้การช่วยเหลือในการตอบคำถามและให้ความช่วยเหลืออย่างเต็มที่ หากคุณไม่พบข้อมูลที่คุณต้องการ กรุณาติดต่อทีมสนับสนุนของเราที่ [support@stnetradio.co](mailto:support@stnetradio.co) หรือติดต่อ [ทีม STNET Radio ทาง Twitter](https://twitter.com/teamstnetradio)!
+## เริ่มต้นใช้งาน
 
-***
+- [เข้าถึง STNET Radio](getting-started/access.md)
+- [ฟัง STNET Radio บน Apple Podcast](guides/apple-podcast.md)
+- [ฟัง STNET Radio บน Google Podcast](guides/google-podcast.md)
+- [ฟัง STNET Radio บน Spotify](guides/spotify.md)
 
-## วิธีการฟัง STNET Radio
+## คำถามที่พบบ่อย (FAQ)
 
-เรียนรู้วิธีการเข้าถึง STNET Radio ผ่านบริการพอดคาสต์ต่าง ๆ ผ่านทางศูนย์ช่วยเหลือของเรา
+- [แผนการสมัครสมาชิก Plus+](plus/available-list.md)
+- [ปัญหาทางเทคนิค](https://docs.stnetradio.co)
+- [ปัญหาการคืนเงินของ RE:WRITE](rewrite/refund.md)
 
-***
+## ติดต่อเรา
 
-#### บริการพอดคาสต์
+หากคุณต้องการความช่วยเหลือเพิ่มเติม โปรดติดต่อทีมสนับสนุนของเรา:
 
-* [Apple Podcast](https://www.notion.so/Apple-Podcast-d593fd3615ce4b4a9c70cd46699ff5bd?pvs=21)
-* [Google Podcast](https://www.notion.so/Google-Podcast-9b239db565414ec1ac8854dd1a4ced1d?pvs=21)
-* [Spotify](https://www.notion.so/Spotify-95277c402a3d4c5f9b1b58f635576c65?pvs=21)
+- **อีเมล**: [support@stnetradio.co](mailto:support@stnetradio.co)
+- **Twitter**: [ทีม STNET Radio](https://twitter.com/teamstnetradio)
 
-บริการเพิ่มเติมจะเพิ่มเข้ามาในเร็ว ๆ นี้ ติดตามอัพเดตได้ที่นี่!
+ขอขอบคุณที่สนับสนุน STNET Radio!
