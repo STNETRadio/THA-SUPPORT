@@ -1,16 +1,15 @@
-# Accessing STNET Radio
+# รับฟังผ่าน STNET Radio
 
 {% hint style="danger" %}
-STNET Radio's website new version will coming with STNET Radio Plus+
+เว็บไซต์ใหม่ของ STNET Radio จะมาพร้อมกับบริการ STNET Radio Plus+
 {% endhint %}
 
-Welcome to STNET Radio! Here's how to get started:
+ยินดีต้อนรับสู่ STNET Radio นี่คือวธีการรับฟัง
 
-## Steps to Access STNET Radio
+## ขั้นตอนการรับฟังผ่าน STNET Radio
 
-1. **Visit the Website**: Go to [stnetradio.co](https://stnetradio.co).
-2. **Sign Up**: Click on "Sign Up" and create your account.
-3. **Login**: Use your credentials to log in.
-4. **Start Listening**: Browse and listen to your favorite podcasts.
+1. **เข้าไปยังเว็บไซต์**: เข้าเว็บไซต์ [stnetradio.co](https://stnetradio.co)
+2. **ลงชื่อใช้งาน**: เลือก "สมัครสมาชิก" และสร้างบัญชีใหม่
+3. **เริ่มรับฟัง**: เลือกและฟังพอตแคสต์ที่คุณชื้นชอบ
 
-Need help? Contact us at [support@stnetradio.co](mailto:support@stnetradio.co).
+หากมีปัญหาโปรดติดต่อ [support@stnetradio.co](mailto:support@stnetradio.co)
