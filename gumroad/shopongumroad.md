@@ -7,9 +7,6 @@ Gumroad คือบริการกลางสำหรับการขา
  1. เข้าเว็บไซตืชั่วคราวของเราที่ [gumroad.stnetradio.co](https://gumroad.stnetradio.co) หรือเว็บไซต์หลักของ Gumroad ที่ [stnetradio.gumroad.com](https://stnetradio.gumroad.com)
  2. เลือกซื้อสินค้าและบริการของเรา
  3. เลือกเวอร์ชั่นหรือประเภทของสินค้าและบริการ (หากมี)
-    
- <figure><picture><source srcset="../.gitbook/assets/ver-gumroad.png" alt=""></picture><figcaption></figcaption></figure>
- 
  4. คุณสามารถระบุราคาเพิ่มเติมจากราคาปกติได้ในบางสินค้า
  5. เลือก "I want this" หรือ "Buy This" หรือ "Pay" เพื่อซื้อสินค้าและบริการ
  6. จากนั้นคุณสามารถกรอกโค้ดส่วนลดที่ได้จากโปรโมชั่น หรือสิทธิ์พิเศษจาก STNET Radio Plus+
