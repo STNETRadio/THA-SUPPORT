@@ -16,9 +16,9 @@
   * [✨ คำขอคืนเงินการสมัครสมาชิก STNET Radio Plus+ ในประเทศไทย](plus/unsubscribe/th-refund.md)
 * [✔️ ประเทศที่ให้บริการ](plus/available-list.md)
 
-## Gumroad <a href="#gumroad" id="gumroad"></a>
+## Gumroad
 
-* [การสั่งซื้อสินค้าและบริการบน Gumroad](/gumroad/shopongumroad.md)
+* [การสั่งซื้อสินค้าและบริการบน Gumroad](gumroad/shopongumroad.md)
 
 ## RE:WRITE <a href="#rewrite" id="rewrite"></a>
 
