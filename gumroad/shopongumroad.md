@@ -10,7 +10,7 @@ Gumroad คือบริการกลางสำหรับการขา
 4. คุณสามารถระบุราคาเพิ่มเติมจากราคาปกติได้ในบางสินค้า
 5. เลือก "I want this" หรือ "Buy This" หรือ "Pay" เพื่อซื้อสินค้าและบริการ
 
-<figure><img src="../.gitbook/assets/gumroad-ver.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ver-gumroad.png" alt=""><figcaption></figcaption></figure>
 
 6. จากนั้นคุณสามารถกรอกโค้ดส่วนลดที่ได้จากโปรโมชั่น หรือสิทธิ์พิเศษจาก STNET Radio Plus+
 7. กรอกรายละเอียดข้อมูลของคุณ
