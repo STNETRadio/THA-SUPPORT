@@ -19,6 +19,7 @@
 ## Gumroad
 
 * [การสั่งซื้อสินค้าและบริการบน Gumroad](gumroad/shopongumroad.md)
+* [การขอคืนเงินจาก Gumroad](gumroad/refund.md)
 
 ## RE:WRITE <a href="#rewrite" id="rewrite"></a>
 
