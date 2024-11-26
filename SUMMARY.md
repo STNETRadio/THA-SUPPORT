@@ -32,5 +32,5 @@
 
 ## ประวัติการประกาศ <a href="#announce" id="announce"></a>
 
-*[ประกาศสำคัญ: การเปลี่ยนแปลงเว็บไซต์และบริการของ STNET Radio](announce/Nov2624.md)
+* [ประกาศสำคัญ: การเปลี่ยนแปลงเว็บไซต์และบริการของ STNET Radio](announce/Nov2624.md)
 * [การเปลี่ยนแปลงโดเมนและที่อยู่อีเมลสำหรับ STNET Radio](announce/Jul1524.md)
