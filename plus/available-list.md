@@ -26,4 +26,4 @@
 * สหราชอาณาจักร (เฉพาะอังกฤษ)
 * สหรัฐอเมริกา (บางรัฐ)
 
-คุณสามารถส่งคำขอเพื่อเข้าร่วมรายการที่รอได้ที่ [plus@stnetradio.co](mailto:plus@stnetradio.co)
+คุณสามารถส่งคำขอเพื่อเข้าร่วมรายการที่รอได้ที่ [plus@stnetradio.com](mailto:plus@stnetradio.com)

@@ -8,8 +8,8 @@
 
 ## ขั้นตอนการรับฟังผ่าน STNET Radio
 
-1. **เข้าไปยังเว็บไซต์**: เข้าเว็บไซต์ [stnetradio.co](https://stnetradio.co)
+1. **เข้าไปยังเว็บไซต์**: เข้าเว็บไซต์ [stnetradio.com](https://stnetradio.com)
 2. **ลงชื่อใช้งาน**: เลือก "สมัครสมาชิก" และสร้างบัญชีใหม่
 3. **เริ่มรับฟัง**: เลือกและฟังพอตแคสต์ที่คุณชื้นชอบ
 
-หากมีปัญหาโปรดติดต่อ [support@stnetradio.co](mailto:support@stnetradio.co)
+หากมีปัญหาโปรดติดต่อ [support@stnetradio.com](mailto:support@stnetradio.com)

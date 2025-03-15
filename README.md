@@ -43,7 +43,7 @@ layout:
 
 หากคุณต้องการความช่วยเหลือเพิ่มเติม โปรดติดต่อทีมสนับสนุนของเรา:
 
-- **อีเมล**: [support@stnetradio.co](mailto:support@stnetradio.co)
+- **อีเมล**: [support@stnetradio.com](mailto:support@stnetradio.com)
 - **Twitter**: [ทีม STNET Radio](https://twitter.com/teamstnetradio)
 
 ขอขอบคุณที่สนับสนุน STNET Radio!

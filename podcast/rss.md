@@ -11,4 +11,4 @@
 7. Pocket Casts
 8. RadioPublic
 
-หากคุณยังไม่มีบริการเหล่านี้ คุณยังสามารถนำข้อมูล RSS ของเราได้ โดยสามารถขอที่ได้ [rss@stnetradio.co](mailto://rss@stnetradio.co)
+หากคุณยังไม่มีบริการเหล่านี้ คุณยังสามารถนำข้อมูล RSS ของเราได้ โดยสามารถขอที่ได้ [rss@stnetradio.com](mailto://rss@stnetradio.com)
